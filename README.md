@@ -1,2 +1,11 @@
 # stoneage_server
-石器时代服务端for linux +VS2019
+###
+
+##### 开发环境
+| 名称 | 要求 |
+|--------|--------|
+|系统	|       ubuntu 或 centos |
+|系统依赖	|       libmysqlclient-dev,g++ |
+|IDE	|       Visual stuio 2019 |
+
+##### 调试
